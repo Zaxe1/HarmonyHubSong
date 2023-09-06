@@ -1,0 +1,36 @@
+#footer{
+    position: absolute;
+    bottom: 0;
+    min-width: 100%;
+    height: 3rem; 
+   
+    
+    text-align: center;
+}
+
+p{}
+#content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+
+  #page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  #formParent{
+    align-items: center;
+    background-image: url("pubg.jpg");
+    border-radius: 10px;
+    padding: 10px;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  #signupFormParent{
+    border: 6px groove rgb(99, 102, 101);
+    border-radius: 10px;
+    padding: 10px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("spd.jpg");
+  }
+  

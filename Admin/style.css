@@ -1,0 +1,57 @@
+html {
+  background-color: azure;
+}
+#loginform{
+  border: 6px groove rgb(227, 230, 229);
+  border-radius: 10px;
+  padding: 10px;
+  background-attachment: fixed;
+  background-size: cover;
+ 
+}
+
+#formParent{
+  align-items: center;
+  background-image: url("god.jpg");
+  border-radius: 10px;
+  padding: 10px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#signupformParent{
+  border: 6px groove rgb(99, 102, 101);
+  border-radius: 10px;
+  padding: 10px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("spdi.jpg");
+}
+
+
+
+body{
+  
+  
+  border: 6px groove rgb(99, 99, 102);
+  border-radius: 1px;
+  padding: 10px;
+  background-attachment: fixed;
+  background-size: cover;
+ 
+  
+
+  
+  
+}
+
+#footer{
+
+background-color: rgb(129, 127, 127);
+height: 5%;
+width: 100%;
+margin: 0 auto;
+position: absolute;
+bottom: 0;
+
+}
